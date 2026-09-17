@@ -1,5 +1,8 @@
 # PME 饼菜单预设 (Pie Menu Editor Preset)
 
+
+[![Latest release](https://img.shields.io/github/v/release/wen-yifeng/pme_preset?sort=semver)](https://github.com/wen-yifeng/pme_preset/releases/latest) [![Downloads](https://img.shields.io/github/downloads/wen-yifeng/pme_preset/total)](https://github.com/wen-yifeng/pme_preset/releases)
+
 一套深度定制的 Blender 全模式饼菜单配置：**80 个菜单、弹窗与脚本、约 567 个功能条目**，覆盖物体、网格、曲线、晶格、UV、权重绘制、姿态、节点、雕刻等模式；常用键 D / W / F / A / S / V / E / R / X 按「点击 / 长按 / 拖动」分派不同菜单。
 
 > 本仓库只包含配置预设。**需要自购并安装 [Pie Menu Editor](https://blendermarket.com/products/pie-menu-editor) 1.19.1 及以上版本**才能使用。
